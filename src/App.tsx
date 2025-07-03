@@ -183,7 +183,7 @@ function AppContent() {
               transition={{ delay: 0.6, duration: 0.8 }}
               className="flex flex-wrap justify-center gap-5"
             >
-              <ContactButton icon={<Github />} href="https://github.com/vjhvyvsxquj" label="GitHub" />
+              <ContactButton icon={<Github />} href="https://github.com/Vishvajeet7171?tab=repositories" label="GitHub" />
               <ContactButton icon={<Linkedin />} href="https://www.linkedin.com/in/vishvajeet-deokar-85aa1821b/" label="LinkedIn" />
               <ContactButton icon={<Mail />} href="mailto:vishvajeetdeokar8@gmail.com" label="Email" />
               <ContactButton icon={<LeetCodeIcon />} href="https://leetcode.com/u/vishvajeet7171/" label="LeetCode" />
@@ -299,7 +299,7 @@ function AppContent() {
               </div>
               <div className="text-center mt-12">
                 <a
-                  href="https://github.com/vjhvyvsxquj"
+                  href="https://github.com/Vishvajeet7171?tab=repositories"
                   className="inline-flex items-center space-x-2 px-6 py-3 border-2 border-slate-600 
                              text-black dark:text-white font-semibold rounded-lg hover:border-cyan-400 hover:text-cyan-400 
                              transition-all duration-200"
