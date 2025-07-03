@@ -318,7 +318,7 @@ function AppContent() {
             <Certifications />
             <div className="text-center mt-12">
               <a
-                href="https://drive.google.com/drive/folders/1nMb_P5JZ0l2rLGEmIWYO5quWB_z5273P?usp=sharing"
+                href="https://drive.google.com/drive/folders/1xLEcj4hTszOW0oHsLgmFecVX8DOBkfuS"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="View all certifications on Google Drive"
