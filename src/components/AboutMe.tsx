@@ -102,6 +102,9 @@ export const AboutMe: React.FC = () => {
                   loading="lazy"
                 />
               </motion.div>
+              <div className="mt-6 text-center text-3xl md:text-2xl font-bold text-text-light dark:text-text-dark tracking-tight drop-shadow-xl transform transition-transform duration-500 ease-in-out hover:scale-105 hover:text-primary-dark dark:hover:text-primary-dark">
+                Vishvajeet Vikas Deokar
+  </div>
             </div>
           </motion.div>
 
