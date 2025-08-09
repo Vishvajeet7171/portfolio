@@ -390,8 +390,8 @@ export const contactInfo = [
   {
     icon: <Phone size={24} />,
     label: 'Phone',
-    value: '+1 (555) 123-4567',
-    href: 'tel:+15551234567',
+    value: '+91 8421057210',
+    href: 'tel:8421057210',
     color: 'from-emerald-500 to-green-500'
   },
   {
